@@ -35,4 +35,4 @@ NFHS-5 microdata cannot be redistributed. Register and request **India NFHS-5 (2
 The outcome covers only *diagnosed and treated* diabetes; glucose is a single random (non-fasting) reading; the data are cross-sectional (associations, not causation); the sample is limited to ages 15-49; figures are unweighted, so they describe the surveyed sample rather than national estimates.
 
 ## Methods and AI use
-I chose the research question and indicators, ran the pipeline on the NFHS-5 files (Stata and Google Colab), and reviewed and interpreted the outputs. The code and report draft were developed with AI assistance (Claude, Anthropic). Parts of the code, notably the household-file reshape for men's BMI, the cross-validated grid search, and the leaf-rule extraction, were AI-generated and then studied and checked by me.
+I chose the research question and indicators, ran the pipeline on the NFHS-5 files (Stata and Google Colab), and reviewed and interpreted the outputs. The codes were developed with AI assistance (Claude, Anthropic).
