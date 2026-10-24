@@ -1,0 +1,12 @@
+# NFHS/DHS data may not be redistributed - never commit it
+*.dta
+*.DTA
+*.csv
+*.xlsx
+*.sav
+*.log
+*.zip
+data/
+# notebook / OS clutter
+.ipynb_checkpoints/
+.DS_Store
